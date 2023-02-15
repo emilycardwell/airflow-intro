@@ -1,0 +1,25 @@
+[2023-02-15T17:07:09.522+0100] {processor.py:153} INFO - Started process (PID=57072) to work on /Users/Emily/.pyenv/versions/3.10.6/envs/airflow/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-02-15T17:07:09.526+0100] {processor.py:743} INFO - Processing file /Users/Emily/.pyenv/versions/3.10.6/envs/airflow/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2023-02-15T17:07:09.526+0100] {logging_mixin.py:137} INFO - [2023-02-15T17:07:09.526+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/Emily/.pyenv/versions/3.10.6/envs/airflow/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-02-15T17:07:09.567+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sensor_decorator']) retrieved from /Users/Emily/.pyenv/versions/3.10.6/envs/airflow/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-02-15T17:07:10.336+0100] {logging_mixin.py:137} INFO - [2023-02-15T17:07:10.336+0100] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_sensor_decorator
+[2023-02-15T17:07:10.343+0100] {logging_mixin.py:137} INFO - [2023-02-15T17:07:10.343+0100] {manager.py:504} INFO - Created Permission View: can read on DAG:example_sensor_decorator
+[2023-02-15T17:07:10.348+0100] {logging_mixin.py:137} INFO - [2023-02-15T17:07:10.348+0100] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_sensor_decorator
+[2023-02-15T17:07:10.348+0100] {logging_mixin.py:137} INFO - [2023-02-15T17:07:10.348+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-02-15T17:07:10.358+0100] {logging_mixin.py:137} INFO - [2023-02-15T17:07:10.358+0100] {dag.py:2711} INFO - Creating ORM DAG for example_sensor_decorator
+[2023-02-15T17:07:10.366+0100] {logging_mixin.py:137} INFO - [2023-02-15T17:07:10.366+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2023-02-15T17:07:10.380+0100] {processor.py:175} INFO - Processing /Users/Emily/.pyenv/versions/3.10.6/envs/airflow/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.859 seconds
+[2023-02-15T17:08:45.253+0100] {processor.py:153} INFO - Started process (PID=57149) to work on /Users/Emily/.pyenv/versions/3.10.6/envs/airflow/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-02-15T17:08:45.258+0100] {processor.py:743} INFO - Processing file /Users/Emily/.pyenv/versions/3.10.6/envs/airflow/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2023-02-15T17:08:45.259+0100] {logging_mixin.py:137} INFO - [2023-02-15T17:08:45.259+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/Emily/.pyenv/versions/3.10.6/envs/airflow/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-02-15T17:08:45.299+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sensor_decorator']) retrieved from /Users/Emily/.pyenv/versions/3.10.6/envs/airflow/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-02-15T17:08:45.960+0100] {logging_mixin.py:137} INFO - [2023-02-15T17:08:45.959+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-02-15T17:08:45.971+0100] {logging_mixin.py:137} INFO - [2023-02-15T17:08:45.971+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2023-02-15T17:08:45.985+0100] {processor.py:175} INFO - Processing /Users/Emily/.pyenv/versions/3.10.6/envs/airflow/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.732 seconds
+[2023-02-15T17:10:54.280+0100] {processor.py:153} INFO - Started process (PID=57273) to work on /Users/Emily/.pyenv/versions/3.10.6/envs/airflow/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-02-15T17:10:54.284+0100] {processor.py:743} INFO - Processing file /Users/Emily/.pyenv/versions/3.10.6/envs/airflow/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2023-02-15T17:10:54.284+0100] {logging_mixin.py:137} INFO - [2023-02-15T17:10:54.284+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/Emily/.pyenv/versions/3.10.6/envs/airflow/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-02-15T17:10:54.325+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sensor_decorator']) retrieved from /Users/Emily/.pyenv/versions/3.10.6/envs/airflow/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-02-15T17:10:55.124+0100] {logging_mixin.py:137} INFO - [2023-02-15T17:10:55.123+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-02-15T17:10:55.139+0100] {logging_mixin.py:137} INFO - [2023-02-15T17:10:55.139+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2023-02-15T17:10:55.155+0100] {processor.py:175} INFO - Processing /Users/Emily/.pyenv/versions/3.10.6/envs/airflow/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.876 seconds
